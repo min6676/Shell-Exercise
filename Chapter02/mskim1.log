@@ -1,0 +1,4 @@
+2013/11/13 21:10:22 [INFO] script start.
+2013/11/13 21:10:24 [ERROR] File does not exist: /var/tmp/foo.txt
+2013/11/13 21:10:24 [ERROR] File does not exist: /var/tmp/bar.txt
+2013/11/13 21:10:25 [INFO] Script end.
